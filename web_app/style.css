@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #f1f1f1;
+  margin: 0;
+  padding: 2rem;
+}
+
+main {
+  background: white;
+  border-radius: 1rem;
+  padding: 2rem;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  margin: auto;
+}
+
+.data {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.controls input {
+  width: 80px;
+  padding: 0.4rem;
+  margin: 0.5rem;
+}
+
+button {
+  padding: 0.4rem 1rem;
+  margin: 0.5rem;
+  border: none;
+  border-radius: 0.5rem;
+  background: #007aff;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #005fcc;
+}
