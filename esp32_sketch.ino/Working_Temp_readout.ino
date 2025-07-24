@@ -30,7 +30,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 // Sensor values
 float temperature = 0.0;
 float humidity = 0.0;
-float threshold = 76.0;  // Fahrenheit
+float threshold = 75.0;  // Fahrenheit
 bool alertSent = false;
 
 unsigned long lastReadTime = 0;
