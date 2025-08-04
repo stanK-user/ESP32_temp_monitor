@@ -7,8 +7,8 @@
 #include <HTTPClient.h>
 
 // WiFi credentials
-const char* ssid = "Tap Room Guest";
-const char* password = "Hamhock69";
+const char* ssid = "ssid";
+const char* password = " password";
 
 // Web server
 AsyncWebServer server(80);
