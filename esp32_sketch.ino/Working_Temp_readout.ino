@@ -14,7 +14,7 @@ const char* password = "Hamhock69";
 AsyncWebServer server(80);
 
 // Discord webhook URL
-const char* discordWebhook = "https://discord.com/api/webhooks/1396330426557010012/s8ehOooBbbpJn4Q9dS5sVN-e3Zl7p4TqU7QJ_PxY_bVSTt_8CYDCwbMVBJnbGdcCgvfN";
+const char* discordWebhook = "enter_webhook_here";
 
 // DHT settings
 #define DHTPIN 15
